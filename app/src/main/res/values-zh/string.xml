@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="text">安卓语言切换例子!</string>
+    <string name="button_name">设置语言</string>
+    <string name="language">多语言</string>
+    <string name="system_language">跟随系统</string>
+    <string name="chinese_language">中文</string>
+    <string name="english_language">English</string>
+    <string name="switch_button">保存</string>
+</resources>
